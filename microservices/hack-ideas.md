@@ -1,4 +1,4 @@
-* Running in ACS on Azure with Public endpoint
+* Running on Azure with Public endpoint (Kubernetes, Service Fabric or Docker Swarm)
   * WordPress
   * Minecraft
   * Moodle
@@ -7,10 +7,11 @@
     * Integrate with Twilio
     * Ingest data into CosmosDB
     * Display texts in an iframe
-* Kubernetes tools to use and understand
-  * Helm
-  * Brigade
-* DevOps
+  * Some application using SQL Server
+* Tools to use and understand
+  * Kubernetes
+    * Helm
+    * Brigade
   * Monitoring
     * Logs - LogAnalytics, Fleuntd, Datadog, ELK
     * Metrics - Prometheus, Heapster, Graphana
