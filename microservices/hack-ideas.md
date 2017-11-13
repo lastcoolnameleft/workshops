@@ -25,5 +25,10 @@
   * CI/CD pipeline
     * Jenkins - https://github.com/lachie83/croc-hunter
     * VSTS - https://docs.microsoft.com/en-us/vsts/build-release/apps/cd/azure/deploy-container-kubernetes
-* Challenges from K8S Hackfest:
-  * https://github.com/chzbrgr71/container-hackfest/tree/master/challenges
+* Challenges
+  * Container Workshop
+    * https://github.com/lastcoolnameleft/workshops/blob/master/containers/index.md
+  * K8S Workshop
+    * https://github.com/lastcoolnameleft/workshops/blob/master/kubernetes/index.md
+  * K8S Hackfest:
+    * https://github.com/chzbrgr71/container-hackfest/tree/master/challenges
