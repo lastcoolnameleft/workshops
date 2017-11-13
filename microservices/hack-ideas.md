@@ -1,19 +1,25 @@
 * Running on Azure with Public endpoint (Kubernetes, Service Fabric or Docker Swarm)
-  * WordPress
+  * [WordPress](https://hub.docker.com/_/wordpress/)
   * Minecraft
-  * Moodle
-  * ELK Stack (ElasticSearch, Logstash, Kibana)
+  * [Moodle](https://hub.docker.com/r/bitnami/moodle/)
+  * [ELK Stack](https://www.elastic.co/webinars/introduction-elk-stack)
+    * [ElasticSearch](https://hub.docker.com/_/elasticsearch/)
+    * [Logstash](https://hub.docker.com/_/logstash/)
+    * [Kibana](https://hub.docker.com/_/kibana/)
   * Text2Screen Service
-    * Integrate with Twilio
-    * Ingest data into CosmosDB
+    * Ingest SMS with [Twilio](https://www.twilio.com/)
+    * Dump data into [CosmosDB](https://docs.microsoft.com/en-us/azure/cosmos-db/)
     * Display texts in an iframe
-  * Some application using SQL Server
+  * Some application using [SQL Server](https://hub.docker.com/r/microsoft/mssql-server-linux/)
 * Tools to use and understand
   * Kubernetes
-    * Helm
-    * Brigade
+    * [Helm](https://helm.sh/)
+    * [Brigade](https://github.com/Azure/brigade/)
   * Monitoring
-    * Logs - LogAnalytics, Fleuntd, Datadog, ELK
+    * Logs
+      * [LogAnalytics](https://docs.microsoft.com/en-us/azure/log-analytics/)
+      * [Fleuntd](https://www.fluentd.org/) 
+      * [ELK Stack](https://www.elastic.co/webinars/introduction-elk-stack)
     * Metrics - Prometheus, Heapster, Graphana
     * Alerting - OMS 
   * CI/CD pipeline
