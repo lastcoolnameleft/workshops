@@ -26,9 +26,6 @@
     * Jenkins - https://github.com/lachie83/croc-hunter
     * VSTS - https://docs.microsoft.com/en-us/vsts/build-release/apps/cd/azure/deploy-container-kubernetes
 * Challenges
-  * Container Workshop
-    * https://github.com/lastcoolnameleft/workshops/blob/master/containers/index.md
-  * K8S Workshop
-    * https://github.com/lastcoolnameleft/workshops/blob/master/kubernetes/index.md
-  * K8S Hackfest:
-    * https://github.com/chzbrgr71/container-hackfest/tree/master/challenges
+  * [Tommy's Container Workshop](https://github.com/lastcoolnameleft/workshops/blob/master/containers/index.md)
+  * [Tommy's K8S Workshop](https://github.com/lastcoolnameleft/workshops/blob/master/kubernetes/index.md)
+  * [OSS GBB K8S Hackfest](https://github.com/chzbrgr71/container-hackfest/tree/master/challenges)
