@@ -1,3 +1,5 @@
+# Hack Ideas
+
 * Running on Azure with Public endpoint (Kubernetes, Service Fabric or Docker Swarm)
   * [WordPress](https://hub.docker.com/_/wordpress/)
   * Minecraft
