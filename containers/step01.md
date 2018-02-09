@@ -7,8 +7,8 @@
 
 
 ## Lab Navigation
-1. [Lab Overview](./index.md)
-1. [Installing Docker locally](./step01.md) *<-- You are here*
+1. [Lab Overview](README.md)
+1. [Installing Docker locally](install-docker.md) *<-- You are here*
 1. [Running a simple app in a Docker container locally](./step02.md)
 1. [Lifecycle of a container](./step03.md)
 1. [Creating and running Docker images using a Dockerfile](./step04.md)
