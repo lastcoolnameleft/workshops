@@ -14,6 +14,8 @@ _NOTE: Many of these questions are inspired by: "12 Factor apps"._
 
 ## Application Codebase
 
+* What OS is your application deployed on?
+* How do user's interact with the application?  (e.g. Browser, RDC, Run on Desktop, etc.)
 * How are you storing your code?
   * e.g. VSTS, TFS, GitLab, etc.
   * This question is designed to underand how developers interact with their source code.  It can also be a leading indicator to their maturity model.  i.e. CVS is a red flag
