@@ -14,7 +14,7 @@ _NOTE: Many of these questions are inspired by: "12 Factor apps"._
 
 ## Application Codebase
 
-* What OS is your application deployed on?
+* What OS does the service run on?
 * How do user's interact with the application?  (e.g. Browser, RDC, Run on Desktop, etc.)
 * How are you storing your code?
   * e.g. VSTS, TFS, GitLab, etc.
@@ -27,7 +27,6 @@ _NOTE: Many of these questions are inspired by: "12 Factor apps"._
     * What are your deployment artifacts?
       * e.g. Java WAR, .EXE, Container
 * What languages are used?
-* What OS does the service run on?
 
 ## Dependencies
 
