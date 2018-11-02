@@ -12,6 +12,9 @@ These are designed to ask probing questions to determine the application's matu
 
 _NOTE: Many of these questions are inspired by: "12 Factor apps"._
 
+## Benefit
+
+* What benefit are you most interested in gaining from Microservices?  (e.g. 
 ## Application Codebase
 
 * What OS does the service run on?
@@ -118,8 +121,8 @@ Is it clear that the 3 processes are separated and able to be run independently?
 * What is your release cycle?
 * Are you implementing CI/CD?
   * If your CI/CD build servers were destroyed, how easily could you re-create it?
-* Does Development contribute to Operations procedures?
-* Does Operations contribute to Development application?
+* Does the Development Team contribute to Operations procedures?
+* Does the Operations Team contribute to Development application?
 * What distinct environments do you have?
   * e.g. Dev, test, stage, prod
     * How close does the development environment resemble test?
